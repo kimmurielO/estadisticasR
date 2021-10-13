@@ -1,0 +1,32 @@
+[
+   {
+      "categoria":"Seleccione tipo de usuario",
+      "biblioteca":"Seleccione Biblioteca",
+      "preg01":"Considera que el personal de la Biblioteca tiene conocimiento para responder a las preguntas de los usuarios",
+      "preg02":"Considera que el personal mantiene un trato adecuado con el usuario",
+      "preg03":"El horario habitual de la Biblioteca se adecua a sus necesidades",
+      "preg04":" Las instalaciones de las Bibliotecas son adecuadas para el estudio, aprendizaje y la investigación",
+      "preg05":"Las condiciones ambientales de las salas son las adecuadas",
+      "preg06":"La señalización de la Biblioteca es clara y facilita su orientación",
+      "preg07":"El equipamiento informático, independientemente de la conexión a red, cubre mis necesidades",
+      "preg08":"Los libros son los que necesito para mi trabajo/ estudios",
+      "preg09":"Las revistas son las necesarias para mi trabajo/ estudios",
+      "preg10":"Los recursos de información electrónicos (bases de datos, revistas y libros electrónicos) son los que necesito",
+      "preg11":"Los instrumentos electrónicos para la recuperación de la información (catálogos, bases de datos...) son fáciles de usar",
+      "preg12":"El portal web de la Biblioteca ¿le permite localizar información fácilmente?",
+      "preg13":"La Biblioteca me guía en la búsqueda de información que necesito para mi trabajo/ estudios",
+      "preg14":"¿Conoce las actividades formativas que imparte la Biblioteca? SI/NO.  Si has asistido a alguna, ¿le ha sido útil?",
+      "preg15":"En general, el servicio de préstamo es el adecuado",
+      "preg16":"Los canales de comunicación de la Biblioteca le resultan útiles",
+      "preg17":"Me considero bien informado sobre los nuevos recursos y servicios que pone en marcha la biblioteca",
+      "preg18":"Las guías, tutoriales y videos elaborados por la Biblioteca, ¿le resultan útiles?",
+      "preg19":"La biblioteca contribuye a mi progreso académico",
+      "preg20":"Valore en su conjunto la calidad del servicio ofrecido por la Biblioteca",
+      "preg21":"El servicio del préstamo interbibliotecario es satisfactorio",
+      "preg22":"Los servicios de apoyo al investigador como asesoramiento en convocatorias de evaluación, soporte a la publicación científica y derechos de autor, ¿le resultan útiles?",
+      "preg23":"Cuando solicito la compra de libros, el tiempo de espera hasta que están disponibles es razonable",
+      "preg24":"¿Qué aspectos considera más satisfactorios en relación con su biblioteca?",
+      "preg25":"¿Qué aspectos considera menos satisfactorios en relación con su biblioteca?",
+      "preg26":"¿Qué considera necesario para mejorar los servicios de la biblioteca?"
+   }
+]
